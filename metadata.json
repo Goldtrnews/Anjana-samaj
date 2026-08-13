@@ -1,0 +1,6 @@
+{
+  "name": "ANJANA SAMAJ",
+  "description": "Indian community, matrimonial, and social networking mobile application for Anjana Samaj.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
